@@ -1,3 +1,5 @@
+# THIS IS An OLD SAMPLE FOR Swift 1.2 and Xcode 6.3 Beta - You can use this as a reference but the code is out of date. For Swift 2 samples, see: https://github.com/mthistle/MicrosoftBandKit_iOS-Swift2/
+
 # BandNotificationSwift
 An iOS Swift version of the Microsoft Band Kit sample app BandNotification. This sample will create a tile on the Band and then send a notification to the tile. To remove the tile use the [Microsoft Health App](https://itunes.apple.com/us/app/microsoft-health/id912580285?mt=8), available in the AppStore.
 
